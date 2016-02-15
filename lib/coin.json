@@ -1,0 +1,5797 @@
+{
+  "Continents": [
+    {
+      "Europe": [
+        {
+          "Albania": [
+            {
+              "1912-1928": [
+                {
+                  "nominal": "5",
+                  "currency": "quindar lek"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "quindar lek"
+                },
+                {
+                  "nominal": "1/4",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "frang ari"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "frang ari"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "frang ari"
+                }
+              ]
+            },
+            {
+              "1928-1943": [
+                {
+                  "nominal": "1",
+                  "currency": "quindar ar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "quindar ar"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "frang ari"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "frang ari"
+                }
+              ]
+            },
+            {
+              "1939-1943": [
+                {
+                  "nominal": "0.05",
+                  "currency": "quindar ar"
+                },
+                {
+                  "nominal": "0.1",
+                  "currency": "quindar ar"
+                },
+                {
+                  "nominal": "0.2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "0.5",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "lek"
+                }
+              ]
+            },
+            {
+              "1946-1976": [
+                {
+                  "nominal": "5",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "lek"
+                }
+              ]
+            },
+            {
+              "1976-1991": [
+                {
+                  "nominal": "5",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "quindarka"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "lek"
+                }
+              ]
+            },
+            {
+              "1992-...": [
+                {
+                  "nominal": "1",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "lek"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "lek"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Andorra": []
+        },
+        {
+          "Austria": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Belgium": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bosnia and Herzegovina": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "5",
+                  "currency": "fenings"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "fenings"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "fenings"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "fenings"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "mark"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "marks"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "marks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bulgaria": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "stotinka"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "stotinki"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "stotinki"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "stotinki"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "stotinki"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "stotinki"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lev"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Croatia": [
+            {
+              "1994-...": [
+                {
+                  "nominal": "1",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "lipa"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "kyna"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "kyne"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kyna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Cyprus": [
+            {
+              "2008-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Czech Republic": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "crown"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "crowns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Denmark": [
+            {
+              "1989-...": [
+                {
+                  "nominal": "1",
+                  "currency": "crown"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "crowns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Estonia": [
+            {
+              "2011-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Finland": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "France": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Germany": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Greece": [
+            {
+              "2001-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Hungary": [
+            {
+              "1992-...": [
+                {
+                  "nominal": "1",
+                  "currency": "forint"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "forints"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "forints"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Iceland": [
+            {
+              "1981-...": [
+                {
+                  "nominal": "1",
+                  "currency": "crown"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "crowns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Republic of Ireland": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Italy": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Latvia": [
+            {
+              "2014-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Liechtenstein": []
+        },
+        {
+          "Lithuania": [
+            {
+              "2015-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Luxembourg": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Republic of Macedonia": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "50",
+                  "currency": "deni"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "denar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "denar"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "denar"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "denar"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "denar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Malta": [
+            {
+              "2008-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Moldova": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "bani"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "bani"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "bani"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "bani"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "bani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Monaco": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Montenegro": []
+        },
+        {
+          "Netherlands": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Norway": [
+            {
+              "1962-...": [
+                {
+                  "nominal": "1",
+                  "currency": "crown"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "crowns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Poland": [
+            {
+              "1995-...": [
+                {
+                  "nominal": "1",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "grosh"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "zloty"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "zloty"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "zloty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Portugal": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Romania": [
+            {
+              "2005-...": [
+                {
+                  "nominal": "1",
+                  "currency": "ban"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "ban"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "ban"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "ban"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Russia": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kopeyka"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kopeyks"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kopeyks"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "kopeyks"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "ruble"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rubles"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rubles"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rubles"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "rubles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "San Marino": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Serbia": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "1",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "dinar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Slovakia": [
+            {
+              "2009-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Slovenia": [
+            {
+              "2007-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Spain": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Sweden": [
+            {
+              "1875-...": [
+                {
+                  "nominal": "1",
+                  "currency": "crown"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "crowns"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "crowns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Switzerland": [
+            {
+              "1850-...": [
+                {
+                  "nominal": "5",
+                  "currency": "rappen"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rappen"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "rappen"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Ukraine": [
+            {
+              "1996-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kopiyka"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "kopiyki"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kopiyok"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kopiyok"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "kopiyok"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "kopiyok"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "grivna"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pounds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "United Kingdom": [
+            {
+              "1971-...": [
+                {
+                  "nominal": "1",
+                  "currency": "penny"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pence"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pence"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pence"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "pence"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "pence"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "pound"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pounds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Vatican City": [
+            {
+              "1999-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "euro"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "euro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Asia": [
+        {
+          "Afghanistan": [
+            {
+              "2003-...": [
+                {
+                  "nominal": "1",
+                  "currency": "afghani"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "afghanis"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "afghanis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Armenia": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "10",
+                  "currency": "dram"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "dram"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "dram"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "dram"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "dram"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "dram"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Azerbaijan": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "1",
+                  "currency": "gapik"
+                },
+                {
+                  "nominal": "3",
+                  "currency": "gapik"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "gapik"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "gapik"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "gapik"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "gapik"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bahrain": [
+            {
+              "1965-...": [
+                {
+                  "nominal": "5",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "fils"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bangladesh": [
+            {
+              "1972-...": [
+                {
+                  "nominal": "1",
+                  "currency": "taka"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "taka"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "taka"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bhutan": [
+            {
+              "1979-...": [
+                {
+                  "nominal": "20",
+                  "currency": "chetrums"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "chetrums"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "chetrums"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "ngultrum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Brunei": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Cambodia": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "50",
+                  "currency": "riels"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "riels"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "riels"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "riels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "China": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "1",
+                  "currency": "jiao"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "jiao"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "yuan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+           "Georgia": [
+             {
+              "1995-...": [
+                {
+                "nominal": "1",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "2",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "5",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "10",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "20",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "50",
+                "currency": "tetri"
+                },
+                {
+                "nominal": "1",
+                "currency": "lari"
+                },
+                {
+                "nominal": "2",
+                "currency": "lari"
+                }
+            ]
+            }
+          ]
+        },
+        {
+          "East Timor": [
+            {
+              "2000-...": [
+                {
+                  "nominal": "1",
+                  "currency": "centavo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "centavos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "India": [
+            {
+              "1957-...": [
+                {
+                  "nominal": "1",
+                  "currency": "paisa"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "3",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "paise"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rupees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Indonesia": [
+            {
+              "1991-...": [
+                {
+                  "nominal": "100",
+                  "currency": "rupiah"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "rupiah"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "rupiah"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "rupiah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Iran": [
+            {
+              "1980-...": [
+                {
+                  "nominal": "50",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "rial"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Iraq": [
+            {
+              "2004-...": [
+                {
+                  "nominal": "25",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "dinars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Israel": [
+            {
+              "1985-...": [
+                {
+                  "nominal": "1",
+                  "currency": "agorot"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "agorot"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "agorot"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "new shekel"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "new shekel"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "new shekel"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "new shekel"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "new shekel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Palestine": [
+            {
+              "1946-...": [
+                {
+                  "nominal": "1",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "mils"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "mils"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Japan": [
+            {
+              "1951-...": [
+                {
+                  "nominal": "1",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "yen"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "yen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Jordan": [
+            {
+              "1996-...": [
+                {
+                  "nominal": "1/2",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "2,5",
+                  "currency": "piastres "
+                },
+                {
+                  "nominal": "5",
+                  "currency": "piastres "
+                },
+                {
+                  "nominal": "10",
+                  "currency": "piastres "
+                },
+                {
+                  "nominal": "1/4",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dinar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Kazakhstan": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "1",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "tenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Kuwait": [
+            {
+              "1961-...": [
+                {
+                  "nominal": "5",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "fils"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Kyrgyzstan": [
+            {
+              "2008-...": [
+                {
+                  "nominal": "1",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "3",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "som"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Laos": [
+            {
+              "1985-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kip"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kip"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kip"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "kip"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "kip"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Lebanon": [
+            {
+              "1994-...": [
+                {
+                  "nominal": "250",
+                  "currency": "pounds"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "pounds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Malaysia": [
+            {
+              "2012-...": [
+                {
+                  "nominal": "5",
+                  "currency": "sen"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "sen"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "sen"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "sen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Maldives": [
+            {
+              "1984-...": [
+                {
+                  "nominal": "1",
+                  "currency": "laari"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "laari"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "laari"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "laari"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "laari"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "rufiyaa"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rufiyaa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mongolia": [
+            {
+              "1990-...": [
+                {
+                  "nominal": "20",
+                  "currency": "togrok"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "togrok"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "togrok"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "togrok"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "togrok"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Myanmar": [
+            {
+              "1991-...": [
+                {
+                  "nominal": "10",
+                  "currency": "pyas"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "pyas"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "kyat"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kyats"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kyats"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "kyats"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "kyats"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Nepal": []
+        },
+        {
+          "North Korea": [
+            {
+              "2005-...": [
+                {
+                  "nominal": "1",
+                  "currency": "chon"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "chon"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "chon"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "chon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Oman": [
+            {
+              "1980-...": [
+                {
+                  "nominal": "5",
+                  "currency": "baisa"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "baisa"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "baisa"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "baisa"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "baisa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Pakistan": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "1",
+                  "currency": "rupee"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rupees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Philippines": [
+            {
+              "1995-...": [
+                {
+                  "nominal": "1",
+                  "currency": "sentimo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "sentimos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "sentimos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "sentimos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Qatar": [
+            {
+              "1966-...": [
+                {
+                  "nominal": "1",
+                  "currency": "dirham"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dirhams"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dirhams"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "dirhams"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "dirhams"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Saudi Arabia": [
+            {
+              "1972-...": [
+                {
+                  "nominal": "5",
+                  "currency": "halala"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "halala"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "halala"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "halala"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "halala"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Singapore": [
+            {
+              "1985-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "South Korea": [
+            {
+              "1968-...": [
+                {
+                  "nominal": "10",
+                  "currency": "won"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "won"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "won"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "won"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Sri Lanka": [
+            {
+              "2005-...": [
+                {
+                  "nominal": "1",
+                  "currency": "rupee"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rupees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Syria": [
+            {
+              "1996-...": [
+                {
+                  "nominal": "1",
+                  "currency": "pound"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pounds"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pounds"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pounds"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "pounds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Tajikistan": [
+            {
+              "2001-...": [
+                {
+                  "nominal": "1",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "diram"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "somoni"
+                },
+                {
+                  "nominal": "3",
+                  "currency": "somoni"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "somoni"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Turkey": [
+            {
+              "2009-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kurus"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kurus"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kurus"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "kurus"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "kurus"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "kurus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Thailand": [
+            {
+              "1988-...": [
+                {
+                  "nominal": "25",
+                  "currency": "satang"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "satang"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "bat"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "bat"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "bat"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "bat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Taiwan": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dollars"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dollars"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "dollars"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Turkmenistan": [
+            {
+              "2009-...": [
+                {
+                  "nominal": "1",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "tenge"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "manat"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "manat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "United Arab Emirates": [
+            {
+              "1995-...": [
+                {
+                  "nominal": "25",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "fils"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Uzbekistan": [
+            {
+              "1994-...": [
+                {
+                  "nominal": "1",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "som"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "som"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Vietnam": [
+            {
+              "1986-2003": [
+                {
+                  "nominal": "200",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "2000",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "5000",
+                  "currency": "rials"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Yemen": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "rial"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "rials"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "rials"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Africa": [
+        {
+          "Angola": [
+            {
+              "1978-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kwanza"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "kwanzas"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kwanzas"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kwanzas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Algeria": [
+            {
+              "1992-...": [
+                {
+                  "nominal": "5",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "dinars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Benin": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Botswana": [
+            {
+              "1976-...": [
+                {
+                  "nominal": "5",
+                  "currency": "thebe"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "thebe"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "thebe"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "thebe"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "pula"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pula"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pula"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Burkina Faso": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Burundi": [
+            {
+              "1976-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Cameroon": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Cape Verde": [
+            {
+              "1994-...": [
+                {
+                  "nominal": "1",
+                  "currency": "escudo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "escudos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "escudos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "escudos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "escudos"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "escudos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Central African Republic": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Chad": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Comoros": [
+            {
+              "1981-...": [
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Republic of the Congo": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Democratic Republic of the Congo": []
+        },
+        {
+          "Cote d'Ivoire": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Djibouti": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Egypt": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "25",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "pound"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Equatorial Guinea": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Eritrea": [
+            {
+              "1997-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "nakfa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Ethiopia": [
+            {
+              "1996-...": [
+                {
+                  "nominal": "1",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "birr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Gabon": [
+            {
+              "1948-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "The Gambia": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "1",
+                  "currency": "butut"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "bututs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "bututs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "bututs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "bututs"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dalasi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Ghana": [
+            {
+              "2007-...": [
+                {
+                  "nominal": "1",
+                  "currency": "pesewa"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesewas"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesewas"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "pesewas"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "pesewas"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "cedi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Guinea": []
+        },
+        {
+          "Guinea-Bissau": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Kenya": [
+            {
+              "1973-...": [
+                {
+                  "nominal": "1",
+                  "currency": "shilling"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "40",
+                  "currency": "shillings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Lesotho": [
+            {
+              "1979-...": [
+                {
+                  "nominal": "1",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "lisente"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "loti"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "maloti"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "maloti"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Liberia": [
+            {
+              "1970-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Libya": [
+            {
+              "2013-...": [
+                {
+                  "nominal": "50",
+                  "currency": "dirhams"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "dirhams"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1/4",
+                  "currency": "dinar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Madagascar": [
+            {
+              "1978-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "4",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "ariary"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "ariary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Malawi": [
+            {
+              "2012-...": [
+                {
+                  "nominal": "1",
+                  "currency": "kwacha"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "kwacha"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "kwacha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mali": [
+            {
+              "1992-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mauritania": [
+            {
+              "1997-...": [
+                {
+                  "nominal": "5",
+                  "currency": "ouguiya"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "ouguiya"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "ouguiya"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "ouguiya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mauritius": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "rupee"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "rupee"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "rupees"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "rupees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Morocco": [
+            {
+              "1961-...": [
+                {
+                  "nominal": "10",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "santim"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "dirham"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "darahim"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "darahim"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "darahim"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dirham"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mozambique": [
+            {
+              "2006-...": [
+                {
+                  "nominal": "1",
+                  "currency": "centavo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "metical"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "meticals"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "meticals"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "meticals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Namibia": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Niger": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Nigeria": [
+            {
+              "1973-...": [
+                {
+                  "nominal": "50",
+                  "currency": "kobo"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "naira"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "naira"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Rwanda": [
+            {
+              "1964-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Soa Tome and Principe": [
+            {
+              "1977-...": [
+                {
+                  "nominal": "100",
+                  "currency": "dobras"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "dobras"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "dobras"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "dobras"
+                },
+                {
+                  "nominal": "2000",
+                  "currency": "dobras"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Senegal": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Seychelles": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "rupee"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rupee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Sierra Leone": [
+            {
+              "1964-...": [
+                {
+                  "nominal": "10",
+                  "currency": "leone"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "leone"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "leone"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "leone"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Somalia": []
+        },
+        {
+          "South Africa": [
+            {
+              "1961-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "rand"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "rand"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "rand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "South Sudan": []
+        },
+        {
+          "Sudan": [
+            {
+              "2007-...": [
+                {
+                  "nominal": "1",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "piastre"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "piastre"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Swaziland": [
+            {
+              "1974-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "lilangeni"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "emalangeni"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "emalangeni"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Tanzania": [
+            {
+              "1966-...": [
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "shilling"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "shillings"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "shillings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Togo": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "franc"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "250",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Tunisia": [
+            {
+              "1958-...": [
+                {
+                  "nominal": "10",
+                  "currency": "millime"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "millime"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "millime"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "millime"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "millime"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dinar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dinars"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dinars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Uganda": [
+            {
+              "2013-...": [
+                {
+                  "nominal": "5",
+                  "currency": "ngwee"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "ngwee"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "ngwee"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "kwacha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Zimbabwe": []
+        }
+      ]
+    },
+    {
+      "Australia": [
+        {
+          "Australia": [
+            {
+              "1966-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "New Zealand": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Fiji": [
+            {
+              "1969-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Papua New Guinea": [
+            {
+              "1975-...": [
+                {
+                  "nominal": "5",
+                  "currency": "toea"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "toea"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "toea"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "toea"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "kina"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "kina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Solomon Islands": [
+            {
+              "1977-...": [
+                {
+                  "nominal": "10",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Vanuatu": [
+            {
+              "1983-...": [
+                {
+                  "nominal": "1",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "vatu"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "vatu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Kiribati": []
+        },
+        {
+          "Marshall Islands": []
+        },
+        {
+          "Micronesia": []
+        },
+        {
+          "Nauru": []
+        },
+        {
+          "Palau": []
+        },
+        {
+          "Samoa": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "sene"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "tala"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Tonga": [
+            {
+              "1967-...": [
+                {
+                  "nominal": "1",
+                  "currency": "seniti"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "seniti"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "seniti"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "seniti"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "seniti"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "seniti"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Tuvalu": []
+        }
+      ]
+    },
+    {
+      "N.America": [
+        {
+          "USA": [
+            {
+              "1861-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dime"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Canada": [
+            {
+              "1935-...": [
+                {
+                  "nominal": "1",
+                  "currency": "cent"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "cents"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "L.America": [
+        {
+          "Argentina": [
+            {
+              "1992-...": [
+                {
+                  "nominal": "1",
+                  "currency": "centavo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Bolivia": [
+            {
+              "1951-...": [
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "boliviano"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "bolivianos"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "bolivianos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Brazil": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "real"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Chile": [
+            {
+              "1959-...": [
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Colombia": [
+            {
+              "1986-...": [
+                {
+                  "nominal": "50",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "200",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Costa Rica": [
+            {
+              "1951-...": [
+                {
+                  "nominal": "5",
+                  "currency": "colones"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "colones"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "colones"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "colones"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "colones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Cuba": [
+            {
+              "2001-...": [
+                {
+                  "nominal": "20",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "3",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Dominican Republic": [
+            {
+              "1937-...": [
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Ecuador": []
+        },
+        {
+          "El Salvador": [
+            {
+              "1984-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "colone"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "colone"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "French Guiana": [
+            {
+              "1996-...": [
+                {
+                  "nominal": "1",
+                  "currency": "dollar"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "dollars"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "dollars"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Guadeloupe": []
+        },
+        {
+          "Guatemala": [
+            {
+              "1998-...": [
+                {
+                  "nominal": "1",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "quetzal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Haiti": [
+            {
+              "1872-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centime"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centimes"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centimes"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centimes"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "gourde"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "gourdes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Honduras": [
+            {
+              "1931-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Martinique": [
+            {
+              "1964-...": [
+                {
+                  "nominal": "5",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "francs"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "francs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Mexico": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Nicaragua": [
+            {
+              "1994-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "cordoba"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "cordoba"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "cordoba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Panama": [
+            {
+              "2011-...": [
+                {
+                  "nominal": "1",
+                  "currency": "centesimo"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "centesimos"
+                },
+                {
+                  "nominal": "1/10",
+                  "currency": "balboa"
+                },
+                {
+                  "nominal": "1/4",
+                  "currency": "balboa"
+                },
+                {
+                  "nominal": "1/2",
+                  "currency": "balboa"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "balboa"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "balboas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Paraguay": [
+            {
+              "1975-...": [
+                {
+                  "nominal": "50",
+                  "currency": "guaranies"
+                },
+                {
+                  "nominal": "100",
+                  "currency": "guaranies"
+                },
+                {
+                  "nominal": "500",
+                  "currency": "guaranies"
+                },
+                {
+                  "nominal": "1000",
+                  "currency": "guaranies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Peru": [
+            {
+              "1991-...": [
+                {
+                  "nominal": "10",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "sole"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "soles"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "soles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Puerto Rico": [
+            {
+              "1895-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "20",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "40",
+                  "currency": "centavos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Saint Barthelemy": []
+        },
+        {
+          "Saint Martin": []
+        },
+        {
+          "Uruguay": [
+            {
+              "1993-...": [
+                {
+                  "nominal": "1",
+                  "currency": "peso"
+                },
+                {
+                  "nominal": "2",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "5",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "pesos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "pesos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Venezuela": [
+            {
+              "2007-...": [
+                {
+                  "nominal": "5",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "10",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "25",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "50",
+                  "currency": "centimos"
+                },
+                {
+                  "nominal": "1",
+                  "currency": "bolivar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

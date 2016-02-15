@@ -1,0 +1,12 @@
+Continent: <%= @coin.coin_set.country.continent.name %>
+<br>
+Country: <%= @coin.coin_set.country.name %>
+<br>
+Coin Set: <%= @coin.coin_set.years %>
+<br>
+Nominal: <%= @coin.nominal %>
+<br>
+Currency: <%= @coin.currency %>
+<br>
+<%= link_to 'Add a piggy bank', coin_add_path(@coin)%>
+<br>

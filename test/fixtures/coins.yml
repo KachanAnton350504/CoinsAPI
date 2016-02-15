@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nominal: MyString
+  year: MyString
+  currency: MyString
+  coin_set_id: 1
+
+two:
+  nominal: MyString
+  year: MyString
+  currency: MyString
+  coin_set_id: 1

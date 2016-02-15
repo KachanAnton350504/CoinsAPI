@@ -1,0 +1,14 @@
+  <h1><%= continent.name %></h1>
+  <br>
+  <% continent.countries.each do |country| %>
+    <h2><%= country.name  %>
+    <% country.save %></h2>
+    <br> 
+    <% country.coin_sets.each do |coin_set| %>
+      <h3><%= coin_set.years  %></h3>
+        <% coin_set.coins.each do |coin| %>
+          <br>
+         <%= link_to "#{coin.nominal} #{coin.currency}", coin_information_path(coin)%>
+        <% end %>
+    <% end %>
+ <% end %>
