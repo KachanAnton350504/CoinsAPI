@@ -11,7 +11,7 @@ class RegistrationsController < Devise::RegistrationsController
         set_flash_message :notice, :signed_up if is_flashing_format?
         sign_up(resource_name, resource)
         respond_to do |format|
-          format.json { render json: current_user }
+          format.json { render json: { success: true, email: resource.email } }
           format.html { respond_with resource, location: after_sign_up_path_for(resource)}
         end
       else
@@ -26,7 +26,7 @@ class RegistrationsController < Devise::RegistrationsController
       clean_up_passwords resource
       set_minimum_password_length
       respond_to do |format|
-          format.json { render json: resource.errors, status: 422}
+          format.json { render json: { success: false, error_description: resource.errors.first.join(' ')}}
           format.html { respond_with resource}
         end
     end

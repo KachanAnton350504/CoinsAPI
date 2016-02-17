@@ -1,10 +1,9 @@
-Continent: <%= @coin.coin_set.country.continent.name %>
-<br>
-Country: <%= @coin.coin_set.country.name %>
-<br>
-Coin Set: <%= @coin.coin_set.years %>
-<br>
-Nominal: <%= @coin.nominal %>
-<br>
-Currency: <%= @coin.currency %>
-<br>
+
+<%= render 'layouts/flash_message' %>
+<h2>Continent: <%= @coin.coin_set.country.continent.name %></h2>
+<h2>Country: <%= @coin.coin_set.country.name %></h2>
+<h2>Coin Set: <%= @coin.coin_set.years %></h2>
+<h2>Nominal: <%= @coin.nominal %></h2>
+<h2>Currency: <%= @coin.currency %></h2>
+
+

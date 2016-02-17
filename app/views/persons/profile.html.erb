@@ -1,2 +1,24 @@
-<h1>Persons#profile</h1>
-<p>Find me in app/views/persons/profile.html.erb</p>
+<h2><%= current_user.email %>, You collected <%= current_user.coins.count %> coins! </h2>
+
+ <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Continent</th>
+        <th>Country</th>
+        <th>Coin Set</th>
+        <th>Nominal</th>
+        <th>Currency</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% current_user.coins.each do |coin| %>
+      <tr>
+        <td><%= coin.coin_set.country.continent.name %></td>
+        <td><%= coin.coin_set.country.name %></td>
+        <td><%= coin.coin_set.years %></td>
+        <td><%= coin.nominal %></td>
+        <td><%= coin.currency %></td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>

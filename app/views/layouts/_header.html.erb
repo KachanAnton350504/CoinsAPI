@@ -1,0 +1,25 @@
+<header class="navbar navbar-inverse navbar-fixed-right ">
+  
+<nav class="navbar-default navbar navbar-fixed-top">
+    <div class="navbar-header">
+        <li><%= link_to 'Coin Pocket', coin_show_path, class: "navbar-brand"%></li>
+    </div>
+    <div class="collapse navbar-collapse" >
+      <ul class="nav navbar-nav">
+        <% if user_signed_in? %>
+            <li><%= link_to 'Profile', user_root_path %></li>
+            <li><%= link_to 'Edit my Profile', edit_user_registration_path %></li>            
+       </ul>
+      <ul class="nav navbar-nav navbar-right">
+         <li><%= link_to 'Log out', destroy_user_session_path, :method => :delete %></li>
+          <% else %>
+            <li><%= link_to 'Log in', new_user_session_path %></li>
+            <li><%= link_to 'Sign Up', new_user_registration_path %></li>
+          <% end %>
+      </ul>
+    </div>
+</nav>
+
+</header>
+
+

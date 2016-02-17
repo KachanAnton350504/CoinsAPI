@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+body { background: url(coin_background.jpg); }
+
+h1, h2, h3 {
+font-weight: normal;
+}
+
+h1 {
+line-height: 35px;
+}
+  
+h2 {
+line-height: 20px;
+color: #8B1A1A;
+text-align: center;
+}
+h3 {
+#line-height: 0px;
+}
+
+.greyButton {
+  background-color: #8B8989;
+}
+
+.field {
+  margin-left: 41%;
+  color:#8B1A1A;
+  font-size: 20px;
+}
+
+.error {
+  text-align: center;
+  color: #FF0000;
+  font-size: 15px;
+}
