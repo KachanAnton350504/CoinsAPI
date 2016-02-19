@@ -1,14 +1,25 @@
 @import "bootstrap";
 
 
+@font-face {
+  font-family: 'Minion Pro';
+  src:  
+    url(/assets/ionproboldconddisplay.ttf) format("truetype"), 
+    url(/assets/MinionPro.otf) format("opentype");
+  font-weight: normal;
+  font-style: 'Bold Cond Display';
+}
+
 .navbar-default {
-    background-color: #8B8989;
     background: transparent;
-    border-color: #000000;
+    background-color: rgb(125,117,129);
+    border-color: rgb(125,117,129);
 }
 /* цвет текста, содержащий название сайта или бренда */
 .navbar-default .navbar-brand {
-    color: #8B1A1A;
+    color: rgb(49,30,51);
+    font-family: 'Minion Pro'; /* Имя шрифта */
+    font-size: 20px;
 }
 /* цвет текста (название сайта или бренда), при поднесении к нему курсора мышки или при его нахождении в фокусе */
 .navbar-default .navbar-brand:hover,
@@ -17,7 +28,9 @@
 }
 /* Цвет пунктов навигационного меню */
 .navbar-default .navbar-nav > li > a {
-    color: #8B1A1A;
+    color: rgb(49,30,51);
+    font-family: 'Minion Pro'; /* Имя шрифта */
+    font-size: 18px;
 }
 /* Цвет пункта меню, при поднесении к нему курсора мышки или при его нахождении в фокусе */
 .navbar-default .navbar-nav > li > a:hover,
