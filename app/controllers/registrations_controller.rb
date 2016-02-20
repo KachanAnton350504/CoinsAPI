@@ -29,39 +29,6 @@ class RegistrationsController < Devise::RegistrationsController
           format.html { respond_with resource}
         end
     end
-    inital()
   end
-
-  def inital
-    file = File.read('lib/coin.json')
-    json = JSON.parse(file)
-
-      json['Continents'].each do |continent|
-        continent_name = continent.keys.to_s.delete '["]'
-        @continent = Continent.create(name: continent_name)
-        continent.values.each do |countries|
-          countries.each do |country|
-            country_name = country.keys.to_s.delete '["]'
-            @country = Country.create(name: country_name)
-            @continent.countries << @country
-            country.values.each do |coins_sets|
-              coins_sets.each do |coin_set|
-                coin_set_name = coin_set.keys.to_s.delete '["]'
-                @coin_set = CoinSet.create(years: coin_set_name)
-                @country.coin_sets << @coin_set 
-                coin_set.values.each do |coins|
-                  coins.each do |coin|
-                  @coin = Coin.create(nominal: coin["nominal"], currency: coin["currency"])
-                  @coin_set.coins << @coin
-                  end
-                end
-              end
-            end
-          end
-        end
-      end
-  end 
-
-
-
+ 
 end
