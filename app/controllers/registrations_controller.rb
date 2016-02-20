@@ -37,17 +37,17 @@ class RegistrationsController < Devise::RegistrationsController
     json = JSON.parse(file)
 
       json['Continents'].each do |continent|
-        continent.keys.to_s.delete! '["]'
-        @continent = Continent.create(name: continent.keys)
+        continent_name = continent.keys.to_s.delete '["]'
+        @continent = Continent.create(name: continent_name)
         continent.values.each do |countries|
           countries.each do |country|
-            country.keys.to_s.delete! '["]'
-            @country = Country.create(name: country.keys)
+            country_name = country.keys.to_s.delete '["]'
+            @country = Country.create(name: country_name)
             @continent.countries << @country
             country.values.each do |coins_sets|
               coins_sets.each do |coin_set|
-                coin_set.keys.to_s.delete! '["]'
-                @coin_set = CoinSet.create(years: coin_set.keys)
+                coin_set_name = coin_set.keys.to_s.delete '["]'
+                @coin_set = CoinSet.create(years: coin_set_name)
                 @country.coin_sets << @coin_set 
                 coin_set.values.each do |coins|
                   coins.each do |coin|
