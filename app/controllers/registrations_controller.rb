@@ -41,8 +41,8 @@ class RegistrationsController < Devise::RegistrationsController
         @continent = Continent.create(name: continent.keys)
         continent.values.each do |countries|
           countries.each do |country|
-            country.keys.keys.to_s.delete! '["]'
-            @country = Country.create(name: country.keys.keys)
+            country.keys.to_s.delete! '["]'
+            @country = Country.create(name: country.keys)
             @continent.countries << @country
             country.values.each do |coins_sets|
               coins_sets.each do |coin_set|
