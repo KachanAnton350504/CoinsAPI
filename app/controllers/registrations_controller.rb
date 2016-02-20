@@ -3,7 +3,7 @@ class RegistrationsController < Devise::RegistrationsController
 
   def create
     build_resource(sign_up_params)
-
+    inital
     resource.save
     yield resource if block_given?
     if resource.persisted?
@@ -31,6 +31,38 @@ class RegistrationsController < Devise::RegistrationsController
         end
     end
   end
+
+  def inital
+    file = File.read('lib/coin.json')
+    json = JSON.parse(file)
+
+      json['Continents'].each do |continent|
+        p continent.keys
+        @continent = Continent.create(name: continent.keys.to_s.delete '["]')
+        continent.values.each do |countries|
+          countries.each do |country|
+            p country.keys
+            @country = Country.create(name: country.keys.keys.to_s.delete '["]')
+            @continent.countries << @country
+            country.values.each do |coins_sets|
+              coins_sets.each do |coin_set|
+                @coin_set = CoinSet.create(years: coin_set.keys.to_s.delete '["]')
+                @country.coin_sets << @coin_set 
+                p coin_set.keys
+                coin_set.values.each do |coins|
+                  coins.each do |coin|
+                  @coin = Coin.create(nominal: coin["nominal"], currency: coin["currency"])
+                  @coin_set.coins << @coin
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+
+
+end 
 
 
 
