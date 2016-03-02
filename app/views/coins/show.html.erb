@@ -1,1 +1,9 @@
+<%= form_tag(coins_search_path, method: "get") do %>
+  <%= label_tag(:q, "Search for:") %>
+  <%= select_tag(:select1, options_for_select([['continent'], ['country'], ['coin_set'], ['coin_nominal'],['coin_currency']])) %>
+  <%= text_field_tag(:param1) %>
+  <%= select_tag(:select2, options_for_select([['country'], ['coin_set'], ['coin_nominal'],['coin_currency'],['continent']])) %>
+  <%= text_field_tag(:param2) %>
+  <%= submit_tag("Search") %>
+<% end %>
 <%= render partial: "continent", collection: @continents %>

@@ -28,22 +28,22 @@ class CoinsController < ApplicationController
     continent = Continent.find_by name: params[:name]
     if check_params(continent)
       respond_to do |format|
-        format.json { render json: {success: true, country_names: continent.countries.map(&:name)} }
+        format.json { render json: {success: true, continent_id: continent.id, country_names: continent.countries.map{|c| {id: c.id, name: c.name}}} }
       end
     end
   end
 
   def continents
     respond_to do |format|
-      format.json { render json: {success: true, countinent_names: Continent.pluck(:name)} }
+      format.json { render json: {success: true, continent_names: Continent.all.map{|c| { id: c.id, name: c.name}}} }
     end
   end
 
   def coin_sets
-    country = Country.find_by name: params[:name]
+    country = Country.find_by name: params[:country_name]
     if check_params(country)
       respond_to do |format|
-        format.json { render json: {success: true, coin_sets: country.coin_sets.map(&:years)} }
+        format.json { render json: {success: true, country_id: country.id, coin_sets: country.coin_sets.map { |c| { id: c.id, years: c.years}}} }
       end
     end
   end
@@ -57,7 +57,7 @@ class CoinsController < ApplicationController
     
     if check_params(coin_set)
       respond_to do |format|
-        format.json { render json: {success: true, coins: coin_set.coins.map {|c| {nominal: c.nominal, currency: c.currency}}}}
+        format.json { render json: {success: true, coin_set_id: coin_set.id, coins: coin_set.coins.map {|c| {id: c.id, nominal: c.nominal, currency: c.currency}}}}
       end
     end
   end
@@ -77,4 +77,7 @@ class CoinsController < ApplicationController
     end
   end
 
+  def coins_search
+    @country = Country.find_by name: params[:param]
+  end
 end
