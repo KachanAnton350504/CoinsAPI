@@ -5,6 +5,7 @@ Rails.application.routes.draw do
                      :skip => [:registrations]
   as :user do
     post 'users/sign_up' => 'registrations#create', :as => :user_registration
+    get   '/users/edit' =>  'registrations#edit', :as => :edit_user_registration
   end
   
   root 'persons#profile'

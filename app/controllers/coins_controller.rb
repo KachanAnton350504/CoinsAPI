@@ -28,14 +28,14 @@ class CoinsController < ApplicationController
     continent = Continent.find_by name: params[:name]
     if check_params(continent)
       respond_to do |format|
-        format.json { render json: {success: true, continent_id: continent.id, country_names: continent.countries.map{|c| {id: c.id, name: c.name}}} }
+        format.json { render json: {success: true, continent_id: continent.id, countries: continent.countries.map{|c| {id: c.id, name: c.name}}} }
       end
     end
   end
 
   def continents
     respond_to do |format|
-      format.json { render json: {success: true, continent_names: Continent.all.map{|c| { id: c.id, name: c.name}}} }
+      format.json { render json: {success: true, continents: Continent.all.map{|c| { id: c.id, name: c.name}}} }
     end
   end
 
