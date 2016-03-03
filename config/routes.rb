@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
-  get 'coins/index'
-
-  devise_for :users, :controllers => {sessions: 'sessions', registrations: 'registrations'}, 
+  mount RailsAdmin::Engine => '/admin1234', as: 'rails_admin'
+   devise_for :users, :controllers => {sessions: 'sessions', registrations: 'registrations'}, 
                      :skip => [:registrations]
   as :user do
     post 'users/sign_up' => 'registrations#create', :as => :user_registration
