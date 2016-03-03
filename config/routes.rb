@@ -6,6 +6,11 @@ Rails.application.routes.draw do
   as :user do
     post 'users/sign_up' => 'registrations#create', :as => :user_registration
     get   '/users/edit' =>  'registrations#edit', :as => :edit_user_registration
+    get    '/users/cancel' => 'registrations#cancel', :as => :cancel_user_registration 
+    get    '/users/sign_up' => 'registrations#new', :as => :new_user_registration
+    patch  '/users' => 'registrations#update', :as => :update_user_registration
+    put    '/users' => 'registrations#update', :as => :registrations_update
+    delete '/users' => 'registrations#destroy', :as => :destroy_user_registration
   end
   
   root 'persons#profile'
