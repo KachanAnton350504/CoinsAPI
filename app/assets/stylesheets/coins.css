@@ -1,0 +1,54 @@
+#list-continents {
+  width: 100%;
+  height: 60px;
+  background: rgb(65,42,67);
+  border: 10px solid rgba(0,0,0,0.3);
+  font-family: 'Minion Pro';
+  color: rgb(245,237,246);
+  font-size: 35px;
+  outline: none; /*убираем стандартную обводку браузера*/   
+    -moz-border-radius: 5px 5px 0px 0px; /*закругляем углы для Mozilla*/  
+    -webkit-border-radius: 5px 5px 0px 0px; /*закругляем углы для Chrome, Safari*/   
+    border-radius: 5px 5px 0px 0px; /*закругляем углы для остальных браузеров*/  
+
+  padding-left: 50px;
+}
+
+#list-countries {
+  width: 100%;
+  height: 40px;
+  background: rgb(65,42,67);
+  border: 5px solid rgba(0,0,0,0.3);
+  font-family: 'Minion Pro';
+  color: rgb(245,237,246);
+  font-size: 25px;
+  padding-left: 100px;
+}
+
+#list-sets {
+  width: 100%;
+  height: 35px;
+  background: rgb(65,42,67);
+  border: 3px solid rgba(0,0,0,0.3);
+  font-family: 'Minion Pro';
+  color: rgb(245,237,246);
+  font-size: 20px;
+  padding-left: 130px;
+}
+#coins {
+  background: rgb(65,42,67);
+  padding-left: 160px;
+}
+
+#list-coins {
+  font-family: 'Minion Pro';
+  color: rgb(245,237,246);
+  font-size: 15px;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+#list-coins:hover,#list-coins:focus
+{   
+  color: black;  
+}

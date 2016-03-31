@@ -1,15 +1,14 @@
-<div class="list-group">
- <h1 class="list-group-item active"><%= continent.name %></h1>
-  <br>
+ <div id="list-continents"><%= continent.name %></div>
   <% continent.countries.each do |country| %>
-    <h2 class="list-group-item"><%= country.name  %></h2>
-    <br> 
-    <% country.coin_sets.each do |coin_set| %>
-      <h3><%= coin_set.years  %></h3>
-        <% coin_set.coins.each do |coin| %>
-          <br>
-         <%= link_to "#{coin.nominal} #{coin.currency}", coin_information_path(coin)%>
-        <% end %>
+    <div id="list-countries"><%= country.name%></div>
+      <% country.coin_sets.each do |coin_set| %>
+      <div id="list-sets"><%= coin_set.years  %></div>
+        <div id="coins">
+        <table>
+          <% coin_set.coins.each do |coin| %> 
+            <tr><%= link_to "#{coin.nominal} #{coin.currency}", coin_information_path(coin), id: "list-coins"%></tr>
+          <% end %>
+        </table>
+</div>
     <% end %>
  <% end %>
-</div> 

@@ -27,4 +27,8 @@ Rails.application.routes.draw do
   get '/coins/coins/', to: 'coins#coins', as: 'coins'
   get '/coins/coins_search/', to: 'coins#coins_search', as: 'coins_search'
 
+
+#API
+  mount GrapeSwaggerRails::Engine => '/api', as: 'swagger'
+  mount API => '/'
 end

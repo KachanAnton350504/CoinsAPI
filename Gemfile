@@ -1,5 +1,12 @@
 source 'https://rubygems.org'
 
+
+
+
+
+#grape-api
+gem 'grape-swagger-rails'
+
 gem 'bootstrap-sass'
 gem 'rails', '4.2.5'
 gem 'sass-rails', '~> 5.0'
@@ -33,5 +40,3 @@ group :production do
   gem 'pg'
   gem 'rails_12factor', '0.0.2'
 end
-
-
