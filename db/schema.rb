@@ -11,13 +11,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160211194657) do
+ActiveRecord::Schema.define(version: 20160407151353) do
 
   create_table "coin_sets", force: :cascade do |t|
     t.string   "years"
     t.integer  "country_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.text     "discription"
   end
 
   add_index "coin_sets", ["country_id"], name: "index_coin_sets_on_country_id"
@@ -55,6 +56,19 @@ ActiveRecord::Schema.define(version: 20160211194657) do
   end
 
   add_index "countries", ["continent_id"], name: "index_countries_on_continent_id"
+
+  create_table "rich_rich_files", force: :cascade do |t|
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "rich_file_file_name"
+    t.string   "rich_file_content_type"
+    t.integer  "rich_file_file_size"
+    t.datetime "rich_file_updated_at"
+    t.string   "owner_type"
+    t.integer  "owner_id"
+    t.text     "uri_cache"
+    t.string   "simplified_type",        default: "file"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

@@ -1,6 +1,6 @@
 class All < Grape::API
   resource :api do
-
+    
     resource :users do
       desc 'Add Coin for User'
       params do

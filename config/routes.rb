@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  mount Rich::Engine => '/rich', :as => 'rich'
   mount RailsAdmin::Engine => '/admin1234', as: 'rails_admin'
    devise_for :users, :controllers => {sessions: 'sessions', registrations: 'registrations'}, 
                      :skip => [:registrations]
@@ -26,6 +27,7 @@ Rails.application.routes.draw do
   get '/coins/coin_sets/', to: 'coins#coin_sets', as: 'coin_sets'
   get '/coins/coins/', to: 'coins#coins', as: 'coins'
   get '/coins/coins_search/', to: 'coins#coins_search', as: 'coins_search'
+  put '/coins/add/', to: 'coins#add'
 
 
 #API

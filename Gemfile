@@ -6,7 +6,10 @@ source 'https://rubygems.org'
 
 #grape-api
 gem 'grape-swagger-rails'
-
+#editor
+gem 'rich', :git => 'https://github.com/kreativgebiet/rich.git'
+#image
+gem 'paperclip'
 gem 'bootstrap-sass'
 gem 'rails', '4.2.5'
 gem 'sass-rails', '~> 5.0'

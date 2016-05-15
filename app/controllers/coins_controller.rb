@@ -61,6 +61,18 @@ class CoinsController < ApplicationController
       end
     end
   end
+
+  def add
+    coin = Coin.find_by_id(params[:coin_id])
+    user = User.find_by(authentication_token: params[:auth_token])
+    return unless check_params(coin) && check_params(user)
+    if !user.coins.include?(coin)
+        user.coins << coin
+        render json: {  success: true, message: "The coin has been successfully added"}
+    else
+        render json: {success: false, error_description: "you already have such a coin"} 
+    end
+  end
   
   def coins_search
     @country = Country.find_by name: params[:param]
